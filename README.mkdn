@@ -1,7 +1,7 @@
 Cyanoben
 ===========
 
-Mod of CyanogenMod by Benowit for my personnal use
+Mod of CyanogenMod by Benowit for my personnal use, for training and knowledge
 
 no add much feature, just enough
 
@@ -20,10 +20,6 @@ Then to sync up:
 
     repo sync
 
-Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
-
-For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.cyanogenmod.org/w/Github_Organization)
 
 Buildbot
 --------
